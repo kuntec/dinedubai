@@ -1,0 +1,8 @@
+{
+  "name": "DineDubai",
+  "description": "Curated restaurant, specialty café, and fine dining discovery platform across Dubai, UAE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
