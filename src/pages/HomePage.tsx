@@ -15,7 +15,7 @@ import { VenueCard } from '../components/common/VenueCard';
 import { ImageWithFallback } from '../components/common/ImageWithFallback';
 
 const POPULAR_SUGGESTIONS = [
-  { label: 'Burj Khalifa Views', to: '/restaurants?area=downtown-dubai' },
+  { label: 'Burj Khalifa Cafe', to: '/restaurants?area=downtown-dubai' },
   { label: 'Quiet Work Cafés', to: '/cafes?filter=work-friendly' },
   { label: 'DIFC Business Lunch', to: '/collections/best-business-lunches' },
   { label: 'Palm Beachfront', to: '/restaurants?area=palm-jumeirah' },
